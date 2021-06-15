@@ -1,0 +1,50 @@
+section{
+    padding: 10px;
+    margin-bottom: 5%;
+}
+body{
+    color: rgb(29, 29, 49);
+}
+.logo{
+    width: 260px;
+height: 40px;
+}
+.head{
+    color: sandybrown ;
+}
+.btn{
+    padding: 8px 10px;
+    width: 170px;
+    height: 50px;
+    border-radius: 20px;
+    border:none;
+    background-image: linear-gradient(180deg, #7cc528,  #54851c);
+}
+.one{
+    width: 80%;
+    height: 100%;  
+}
+
+.first{
+    background-color: rgb(252, 235, 222);
+}
+.card-img-top{
+    width: 280px;
+    height: 300px;
+}
+.chobi{
+    margin: 15px; 
+    border-radius: 8px;
+    background-color:rgb(233, 229, 229);
+}
+.write{
+    margin-left: 30px;
+}
+.btn{
+    width: 150px;
+    padding: 10px 20px;
+}
+.card,.hi{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
